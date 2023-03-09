@@ -10,7 +10,7 @@ public class Person {
     }
 
     public static String personage(int age) {
-        return "I am " + age +" years old";
+        return "I am way " + age +" years old";
     }
 
     public static String location(String place) {
