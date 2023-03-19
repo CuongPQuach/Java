@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author rioqu
+ *
+ */
+module AbstractArt {
+}
